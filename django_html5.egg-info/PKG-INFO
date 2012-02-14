@@ -1,0 +1,19 @@
+Metadata-Version: 1.0
+Name: django-html5
+Version: 1.0.0
+Summary: HTML5 support for Django projects
+Home-page: https://github.com/dyve/django-html5
+Author: Dylan Verheul
+Author-email: dylan@dyve.net
+License: Apache License 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Utilities
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django

@@ -1,0 +1,10 @@
+MANIFEST.in
+setup.py
+django_html5.egg-info/PKG-INFO
+django_html5.egg-info/SOURCES.txt
+django_html5.egg-info/dependency_links.txt
+django_html5.egg-info/top_level.txt
+html5/__init__.py
+html5/tests.py
+html5/forms/__init__.py
+html5/forms/widgets.py
